@@ -1,0 +1,32 @@
+{
+  "name": "webpack4-starter",
+  "version": "1.0.0",
+  "description": "This is Webpack4 + Babel7 + React Starter",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --open --mode development",
+    "build": "webpack --mode production"
+  },
+  "keywords": [
+    "webpack",
+    "webpack4",
+    "babel7",
+    "babel",
+    "react"
+  ],
+  "author": "Brown Jhang",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/preset-env": "^7.2.3",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.4",
+    "html-loader": "^0.5.5",
+    "html-webpack-plugin": "^3.2.0",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "webpack": "^4.28.3",
+    "webpack-cli": "^3.2.0",
+    "webpack-dev-server": "^3.1.14"
+  }
+}
