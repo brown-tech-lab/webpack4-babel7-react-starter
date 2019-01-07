@@ -1,5 +1,5 @@
 {
-  "name": "webpack4-starter",
+  "name": "webpack4-babel7-react-starter",
   "version": "1.0.0",
   "description": "This is Webpack4 + Babel7 + React Starter",
   "main": "index.js",
