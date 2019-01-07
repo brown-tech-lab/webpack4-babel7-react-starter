@@ -2,7 +2,7 @@
 ## This is Webpack4 + Babel7 + React Starter
 
 ----------------------------------
-## How to test: 
+## How to use: 
 
 ```
 npm install
