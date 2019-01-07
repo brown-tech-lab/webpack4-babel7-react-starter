@@ -1,5 +1,5 @@
 ## Hello!
-## This is Webpack4 + Babel7 + React Starter
+## This is Webpack4 + Babel7 + React Starter.
 
 ----------------------------------
 ## How to use: 
